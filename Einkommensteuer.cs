@@ -1,7 +1,7 @@
 ﻿/**************************************************
  * Übungsnr:        01                                     
  * Programmname:    Währungsrechner                                  
- * Autor:           Michael Bucek                      
+ * Autor:           karlof002                      
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Es wird ein Eurobetrag eingelesen und dann der
