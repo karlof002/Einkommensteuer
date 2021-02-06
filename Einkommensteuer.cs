@@ -1,16 +1,3 @@
-﻿/**************************************************
- * Übungsnr:        01                                     
- * Programmname:    Währungsrechner                                  
- * Autor:           karlof002                      
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Es wird ein Eurobetrag eingelesen und dann der
- * entsprechende Betrag in Dollar und Schweizer 
- * Franken ausgegeben.
- * 
- * ************************************************
-*/
-
 
 using System;
 
